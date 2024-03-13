@@ -4,7 +4,7 @@ Ai that makes more calls and books more meetings
 # Project: Make More Calls and Set More Meetings
 
 ## Introduction
-Welcome to spinnr! This open-source project aims to address a common challenge faced by many founders: the daunting task of making calls and setting appointments. As a founder, engaging with potential clients or partners over the phone is often crucial but can be intimidating. This project seeks to alleviate this burden by leveraging AI technology to automate and streamline the process of making calls and scheduling meetings.
+Welcome to Spinnr! This open-source project aims to address a common challenge faced by many founders: the daunting task of making calls and setting appointments. As a founder, engaging with potential clients or partners over the phone is often crucial but can be intimidating. This project seeks to alleviate this burden by leveraging AI technology to automate and streamline the process of making calls and scheduling meetings.
 
 ## The Problem
 As a founder, making calls and conducting qualification calls can be a significant source of anxiety and stress. Despite the importance of these interactions for business development, the fear of rejection or uncertainty can hinder productivity and growth. Many founders struggle with initiating these conversations, which can ultimately impact their ability to reach potential clients or partners effectively.
